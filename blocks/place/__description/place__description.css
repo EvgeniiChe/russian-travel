@@ -1,0 +1,10 @@
+.place__description {
+  margin: 0;
+  width: calc(50% - 8px);
+}
+  
+@media screen and (max-width: 623px){
+  .place__description {
+    width: 100%;
+  }
+}
