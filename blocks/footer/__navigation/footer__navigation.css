@@ -1,4 +1,4 @@
-.navigation__list {
+.footer__navigation {
   display: flex;
   justify-content: start;
   list-style-type: none;
@@ -6,7 +6,7 @@
 }
   
 @media screen and (max-width: 623px) {
-  .navigation__list {
+  .footer__navigation {
     display: block;
   }
 }
