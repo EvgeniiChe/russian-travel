@@ -19,4 +19,4 @@
 
 **Ссылка на GitHub**
 
-[https://github.com/EvgeniiChe/russian-travel/](https://github.com/EvgeniiChe/russian-travel/)
+[https://evgeniiche.github.io/russian-travel/](https://evgeniiche.github.io/russian-travel/)
